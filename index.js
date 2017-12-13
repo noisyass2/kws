@@ -26,12 +26,14 @@ function getData(quest) {
     tr += "<td>" + quest.rank + "</td>";
     tr += "<td>" + quest.tag + "</td>";
     tr += "<td>" + quest.titleJP + "<br>" + quest.titleEN + "</td>";
-    tr += "<td>" + getTarget(quest.target) + "</td>";
+    
     tr += "<td>" + quest.mainquest + 
     ((quest.subquest == "(None)") ? "" : "<hr>" + quest.subquest )+
     + "</td>";
     tr += "<td>" + quest.mapJP + "<br>" + quest.mapEN + "</td>";
+    tr += "<td>" + getTarget(quest.target) + "</td>";
     tr+="</tr>";
+   
     return tr;
 }
 
