@@ -18,17 +18,20 @@ function loadfiltered(){
     if(cat != ""){
         keyData = keyData.filter((q) => q.category.trim() == cat);
     }
+    if(search != ""){
+        keyData = keyData.filter((q) => JSON.stringify(q).toLowerCase().includes(search.toLowerCase()));
+    }
     loadAll(keyData);
 }
 
 function getData(quest) {
     var tr = "<tr>";
-    tr += "<td>" + quest.rank + "</td>";
+    tr += "<td>" + quest.category.trim().substring(0,1) + " " + quest.rank + "</td>";
     tr += "<td>" + quest.tag + "</td>";
     tr += "<td>" + quest.titleJP + "<br>" + quest.titleEN + "</td>";
     
     tr += "<td>" + quest.mainquest + 
-    ((quest.subquest == "(None)") ? "" : "<hr>" + quest.subquest )+
+    ((quest.subquest == "(None)") ? "" : "<hr>" + quest.subquest ) 
     + "</td>";
     tr += "<td>" + quest.mapJP + "<br>" + quest.mapEN + "</td>";
     tr += "<td>" + getTarget(quest.target) + "</td>";
@@ -74,6 +77,7 @@ function getTarget(targets) {
 var key = "";
 var rank = "";
 var cat = "";
+var search = "";
 
 loadAll(data);
 
@@ -88,6 +92,7 @@ $("#btnAll").click(function(e){
     key = "";
     rank = "";
     cat = "";
+    search="";
     loadfiltered();
 })
 
@@ -108,3 +113,9 @@ $("#btnCatP").click(function (e) {
     cat="Permit";
     loadfiltered();
 });
+
+$("#btnSearch").click(function (e) {
+    e.preventDefault();
+    search=$("#txtSearch").val();
+    loadfiltered();
+})
