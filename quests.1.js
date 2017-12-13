@@ -1,4 +1,4 @@
-[
+data = [
     {
         "category": "Village ",
         "rank": "1",

@@ -1,0 +1,658 @@
+[
+    {
+        "Name": "ドスマッカォGreat Maccao",
+        "ENName": "Great Maccao",
+        "JPName": "ドスマッカォ",
+        "code": "MONLRGID1",
+        "spawn": "5 > 2,3,4,5,6,7,8 > 8"
+    },
+    {
+        "Name": "ドスゲネポスGendrome",
+        "ENName": "Gendrome",
+        "JPName": "ドスゲネポス",
+        "code": "MONLRGID2",
+        "spawn": "1,10 > 3,4,7,10 > 3"
+    },
+    {
+        "Name": "ドスガレオスCephadrome",
+        "ENName": "Cephadrome",
+        "JPName": "ドスガレオス",
+        "code": "MONLRGID3",
+        "spawn": "7 > 2,3,7 > 3"
+    },
+    {
+        "Name": "ドスランポスVelocidrome",
+        "ENName": "Velocidrome",
+        "JPName": "ドスランポス",
+        "code": "MONLRGID4",
+        "spawn": "5,8 > 2,3,4,5,8,10 > 5"
+    },
+    {
+        "Name": "ドスファンゴBulldrome",
+        "ENName": "Bulldrome",
+        "JPName": "ドスファンゴ",
+        "code": "MONLRGID5",
+        "spawn": "7 > 6,7,8 > 7"
+    },
+    {
+        "Name": "アオアシラArzuros",
+        "ENName": "Arzuros",
+        "JPName": "アオアシラ",
+        "code": "MONLRGID6",
+        "spawn": "5 > 2,5,6,7,8,9 > 2"
+    },
+    {
+        "Name": "テツカブラTetsucabra",
+        "ENName": "Tetsucabra",
+        "JPName": "テツカブラ",
+        "code": "MONLRGID7",
+        "spawn": "3,4 > 2,3,4,7,8,9 > 9"
+    },
+    {
+        "Name": "イャンクックYian Kut-Ku",
+        "ENName": "Yian Kut-Ku",
+        "JPName": "イャンクック",
+        "code": "MONLRGID8",
+        "spawn": "5 > 2,3,4,5,6,7 > 7"
+    },
+    {
+        "Name": "ディノバルドGlavenus",
+        "ENName": "Glavenus",
+        "JPName": "ディノバルド",
+        "code": "MONLRGID9",
+        "spawn": "2 > 2,3,4,6,7,9,10,11 > 11"
+    },
+    {
+        "Name": "ダイミョウザザミDaimyo Hermitaur",
+        "ENName": "Daimyo Hermitaur",
+        "JPName": "ダイミョウザザミ",
+        "code": "MONLRGID10",
+        "spawn": "3 > 1,2,3,4,7 > 3"
+    },
+    {
+        "Name": "ハプルボッカNibelsnarf",
+        "ENName": "Nibelsnarf",
+        "JPName": "ハプルボッカ",
+        "code": "MONLRGID11",
+        "spawn": "7 > 2,3,7 > 3"
+    },
+    {
+        "Name": "ウルクススLagombi",
+        "ENName": "Lagombi",
+        "JPName": "ウルクスス",
+        "code": "MONLRGID12",
+        "spawn": "6,8 > 6,7,8 > 7"
+    },
+    {
+        "Name": "フルフルKhezu",
+        "ENName": "Khezu",
+        "JPName": "フルフル",
+        "code": "MONLRGID13",
+        "spawn": "8 > 1,3,6,7,8 > 3"
+    },
+    {
+        "Name": "ロアルドロスRoyal Ludroth",
+        "ENName": "Royal Ludroth",
+        "JPName": "ロアルドロス",
+        "code": "MONLRGID14",
+        "spawn": "7 > 4,5,6,7,8 > 8"
+    },
+    {
+        "Name": "ドスイーオスIodrome",
+        "ENName": "Iodrome",
+        "JPName": "ドスイーオス",
+        "code": "MONLRGID15",
+        "spawn": "6,1 > 1,2,4,5,6,8 > 4"
+    },
+    {
+        "Name": "ゲリョスGypceros",
+        "ENName": "Gypceros",
+        "JPName": "ゲリョス",
+        "code": "MONLRGID16",
+        "spawn": "8 > 1,2,4,5,6,8 > 2"
+    },
+    {
+        "Name": "ホロロホルルMalfestio",
+        "ENName": "Malfestio",
+        "JPName": "ホロロホルル",
+        "code": "MONLRGID17",
+        "spawn": "4,9 > 2,3,4,5,7,8,9 > 4"
+    },
+    {
+        "Name": "ナルガクルガNargacuga",
+        "ENName": "Nargacuga",
+        "JPName": "ナルガクルガ",
+        "code": "MONLRGID18",
+        "spawn": "4 > 2,4,5,9,10,11 > 11"
+    },
+    {
+        "Name": "ラングロトラVolvidon",
+        "ENName": "Volvidon",
+        "JPName": "ラングロトラ",
+        "code": "MONLRGID19",
+        "spawn": "3 > 2,3,4,6,7 > 7"
+    },
+    {
+        "Name": "リオレイアRathian",
+        "ENName": "Rathian",
+        "JPName": "リオレイア",
+        "code": "MONLRGID20",
+        "spawn": "5 > 2,3,4,5,9,10 > 5"
+    },
+    {
+        "Name": "ガララアジャラNajarala",
+        "ENName": "Najarala",
+        "JPName": "ガララアジャラ",
+        "code": "MONLRGID21",
+        "spawn": "5 > 3,5,10 > 5"
+    },
+    {
+        "Name": "ドドブランゴBlangonga",
+        "ENName": "Blangonga",
+        "JPName": "ドドブランゴ",
+        "code": "MONLRGID22",
+        "spawn": "6 > 3,6,7,8 > 3"
+    },
+    {
+        "Name": "ショウグンギザミShogun Ceanataur",
+        "ENName": "Shogun Ceanataur",
+        "JPName": "ショウグンギザミ",
+        "code": "MONLRGID23",
+        "spawn": "9,6 > 3,4,5,6,7,9 > 3"
+    },
+    {
+        "Name": "イャンガルルガYian Garuga",
+        "ENName": "Yian Garuga",
+        "JPName": "イャンガルルガ",
+        "code": "MONLRGID24",
+        "spawn": "4 > 2,4,5,6,7,8,9 > 9"
+    },
+    {
+        "Name": "ライゼクスAstalos",
+        "ENName": "Astalos",
+        "JPName": "ライゼクス",
+        "code": "MONLRGID25",
+        "spawn": "4 > 2,3,4,5,10 > 5"
+    },
+    {
+        "Name": "ガムートGammoth",
+        "ENName": "Gammoth",
+        "JPName": "ガムート",
+        "code": "MONLRGID26",
+        "spawn": "8,6 > 6,7,8 > 7"
+    },
+    {
+        "Name": "ラギアクルスLagiacrus",
+        "ENName": "Lagiacrus",
+        "JPName": "ラギアクルス",
+        "code": "MONLRGID27",
+        "spawn": "7 > 4,5,6,7,8 > 8"
+    },
+    {
+        "Name": "タマミツネMizutsune",
+        "ENName": "Mizutsune",
+        "JPName": "タマミツネ",
+        "code": "MONLRGID28",
+        "spawn": "4 > 4,5,6,7,8 > 5"
+    },
+    {
+        "Name": "リオレウスRathalos",
+        "ENName": "Rathalos",
+        "JPName": "リオレウス",
+        "code": "MONLRGID29",
+        "spawn": "8 > 2,3,5,7,8 > 8"
+    },
+    {
+        "Name": "ウラガンキンUragaan",
+        "ENName": "Uragaan",
+        "JPName": "ウラガンキン",
+        "code": "MONLRGID30",
+        "spawn": "6 > 3,4,5,6,7 > 6"
+    },
+    {
+        "Name": "ゴア・マガラGore Magala",
+        "ENName": "Gore Magala",
+        "JPName": "ゴア・マガラ",
+        "code": "MONLRGID31",
+        "spawn": "6 > 2,3,4,5,6 > 4"
+    },
+    {
+        "Name": "ジンオウガZinogre",
+        "ENName": "Zinogre",
+        "JPName": "ジンオウガ",
+        "code": "MONLRGID32",
+        "spawn": "4 > 2,4,5,6,7,8,9,10,11 > 8"
+    },
+    {
+        "Name": "ティガレックスTigrex",
+        "ENName": "Tigrex",
+        "JPName": "ティガレックス",
+        "code": "MONLRGID33",
+        "spawn": "4 > 1,2,3,4,7,10 > 3"
+    },
+    {
+        "Name": "セルレギオスSeregios",
+        "ENName": "Seregios",
+        "JPName": "セルレギオス",
+        "code": "MONLRGID34",
+        "spawn": "2 > 1,2,3,4,5,7,10 > 5"
+    },
+    {
+        "Name": "ブラキディオスBrachydios",
+        "ENName": "Brachydios",
+        "JPName": "ブラキディオス",
+        "code": "MONLRGID35",
+        "spawn": "5 > 2,5,6 > 6"
+    },
+    {
+        "Name": "キリンKirin",
+        "ENName": "Kirin",
+        "JPName": "キリン",
+        "code": "MONLRGID36",
+        "spawn": "11 > 9,10,11 > "
+    },
+    {
+        "Name": "シャガルマガラShagaru Magala",
+        "ENName": "Shagaru Magala",
+        "JPName": "シャガルマガラ",
+        "code": "MONLRGID37",
+        "spawn": ""
+    },
+    {
+        "Name": "ドボルベルクDuramboros",
+        "ENName": "Duramboros",
+        "JPName": "ドボルベルク",
+        "code": "MONLRGID38",
+        "spawn": "5 > 4,5,6,7,9 > 9"
+    },
+    {
+        "Name": "ゲネル・セルタスSeltas Queen",
+        "ENName": "Seltas Queen",
+        "JPName": "ゲネル・セルタス",
+        "code": "MONLRGID39",
+        "spawn": "5 > 1,2,4,5,9 > 9"
+    },
+    {
+        "Name": "アルセルタスSeltas",
+        "ENName": "Seltas",
+        "JPName": "アルセルタス",
+        "code": "MONLRGID40",
+        "spawn": "5 > 1,2,3,4,5,6,9 > 3"
+    },
+    {
+        "Name": "ザボアザギルZamtrios",
+        "ENName": "Zamtrios",
+        "JPName": "ザボアザギル",
+        "code": "MONLRGID41",
+        "spawn": ""
+    },
+    {
+        "Name": "クシャルダオラKushala Daora",
+        "ENName": "Kushala Daora",
+        "JPName": "クシャルダオラ",
+        "code": "MONLRGID42",
+        "spawn": "8 > 1,3,6,7,8 > 8"
+    },
+    {
+        "Name": "オオナズチChameleos",
+        "ENName": "Chameleos",
+        "JPName": "オオナズチ",
+        "code": "MONLRGID43",
+        "spawn": "3 > 2,3,4,5,10 > 5"
+    },
+    {
+        "Name": "テオ・テスカトルTeostra",
+        "ENName": "Teostra",
+        "JPName": "テオ・テスカトル",
+        "code": "MONLRGID44",
+        "spawn": "8 > 2,4,6,7,8 > 6"
+    },
+    {
+        "Name": "リオレウス希少種Silver Rathalos",
+        "ENName": "Silver Rathalos",
+        "JPName": "リオレウス希少種",
+        "code": "MONLRGID45",
+        "spawn": ""
+    },
+    {
+        "Name": "リオレイア希少種Gold Rathian",
+        "ENName": "Gold Rathian",
+        "JPName": "リオレイア希少種",
+        "code": "MONLRGID46",
+        "spawn": ""
+    },
+    {
+        "Name": "ラージャンRajang",
+        "ENName": "Rajang",
+        "JPName": "ラージャン",
+        "code": "MONLRGID47",
+        "spawn": ""
+    },
+    {
+        "Name": "イビルジョーDeviljho",
+        "ENName": "Deviljho",
+        "JPName": "イビルジョー",
+        "code": "MONLRGID48",
+        "spawn": ""
+    },
+    {
+        "Name": "ババコンガCongalala",
+        "ENName": "Congalala",
+        "JPName": "ババコンガ",
+        "code": "MONLRGID49",
+        "spawn": "6 > 1,2,3,6,7 > 2"
+    },
+    {
+        "Name": "ボルボロスBarroth",
+        "ENName": "Barroth",
+        "JPName": "ボルボロス",
+        "code": "MONLRGID50",
+        "spawn": "1 > 1,2,3,5,10 > 1"
+    },
+    {
+        "Name": "ケチャワチャKecha Wacha",
+        "ENName": "Kecha Wacha",
+        "JPName": "ケチャワチャ",
+        "code": "MONLRGID51",
+        "spawn": "4 > 2,4,8,9 > 9"
+    },
+    {
+        "Name": "ドスギアノスGiadrome",
+        "ENName": "Giadrome",
+        "JPName": "ドスギアノス",
+        "code": "MONLRGID52",
+        "spawn": "7,6 > 6,7,8 > 7"
+    },
+    {
+        "Name": "ガノトトスPlesioth",
+        "ENName": "Plesioth",
+        "JPName": "ガノトトス",
+        "code": "MONLRGID53",
+        "spawn": "3 > 2,3,4 > 4"
+    },
+    {
+        "Name": "ネルスキュラNerscylla",
+        "ENName": "Nerscylla",
+        "JPName": "ネルスキュラ",
+        "code": "MONLRGID54",
+        "spawn": "2,7 > 2,5,6,7 > 7"
+    },
+    {
+        "Name": "バサルモスBasarios",
+        "ENName": "Basarios",
+        "JPName": "バサルモス",
+        "code": "MONLRGID55",
+        "spawn": "4 > 2,4,5,6,8 > 2"
+    },
+    {
+        "Name": "ヴォルガノスLavasioth",
+        "ENName": "Lavasioth",
+        "JPName": "ヴォルガノス",
+        "code": "MONLRGID56",
+        "spawn": "9,10 > 9,10 > 10"
+    },
+    {
+        "Name": "グラビモスGravios",
+        "ENName": "Gravios",
+        "JPName": "グラビモス",
+        "code": "MONLRGID57",
+        "spawn": "2 > 1,2,5,6,7 > 5"
+    },
+    {
+        "Name": "ベリオロスBarioth",
+        "ENName": "Barioth",
+        "JPName": "ベリオロス",
+        "code": "MONLRGID58",
+        "spawn": "1 > 1,2,3,6,7,9 > 9"
+    },
+    {
+        "Name": "アグナコトルAgnaktor",
+        "ENName": "Agnaktor",
+        "JPName": "アグナコトル",
+        "code": "MONLRGID59",
+        "spawn": "8 > 2,8,9 > 9"
+    },
+    {
+        "Name": "バルファルクValfalk",
+        "ENName": "Valfalk",
+        "JPName": "バルファルク",
+        "code": "MONLRGID60",
+        "spawn": "2 > 1,2,3,6,7,9 > 9"
+    },
+    {
+        "Name": "ディアブロスDiablos",
+        "ENName": "Diablos",
+        "JPName": "ディアブロス",
+        "code": "MONLRGID61",
+        "spawn": ""
+    },
+    {
+        "Name": "オストガロアNakarkos",
+        "ENName": "Nakarkos",
+        "JPName": "オストガロア",
+        "code": "MONLRGID62",
+        "spawn": ""
+    },
+    {
+        "Name": "アカムトルムAkantor",
+        "ENName": "Akantor",
+        "JPName": "アカムトルム",
+        "code": "MONLRGID63",
+        "spawn": ""
+    },
+    {
+        "Name": "ウカムルバスUkanlos",
+        "ENName": "Ukanlos",
+        "JPName": "ウカムルバス",
+        "code": "MONLRGID64",
+        "spawn": ""
+    },
+    {
+        "Name": "アマツマガツチAmatsu",
+        "ENName": "Amatsu",
+        "JPName": "アマツマガツチ",
+        "code": "MONLRGID65",
+        "spawn": ""
+    },
+    {
+        "Name": "アルバトリオンAlatreon",
+        "ENName": "Alatreon",
+        "JPName": "アルバトリオン",
+        "code": "MONLRGID66",
+        "spawn": ""
+    },
+    {
+        "Name": "激昂したラージャンFurious Rajang",
+        "ENName": "Furious Rajang",
+        "JPName": "激昂したラージャン",
+        "code": "MONLRGID67",
+        "spawn": ""
+    },
+    {
+        "Name": "怒り喰らうイビルジョーSavage Deviljho",
+        "ENName": "Savage Deviljho",
+        "JPName": "怒り喰らうイビルジョー",
+        "code": "MONLRGID68",
+        "spawn": "7 > 1,2,3,4,7,10 > 3"
+    },
+    {
+        "Name": "ラオシャンロンLao-Shan Lung",
+        "ENName": "Lao-Shan Lung",
+        "JPName": "ラオシャンロン",
+        "code": "MONLRGID69",
+        "spawn": ""
+    },
+    {
+        "Name": "アトラル・カAtlal Ka",
+        "ENName": "Atlal Ka",
+        "JPName": "アトラル・カ",
+        "code": "MONLRGID70",
+        "spawn": ""
+    },
+    {
+        "Name": "アトラル・ネセトAtlal Throne",
+        "ENName": "Atlal Throne",
+        "JPName": "アトラル・ネセト",
+        "code": "MONLRGID71",
+        "spawn": ""
+    },
+    {
+        "Name": "渾沌に呻くゴア・マガラChaotic Gore Magala",
+        "ENName": "Chaotic Gore Magala",
+        "JPName": "渾沌に呻くゴア・マガラ",
+        "code": "MONLRGID72",
+        "spawn": ""
+    },
+    {
+        "Name": "猛り爆ぜるブラキディオスRaging Brachydios",
+        "ENName": "Raging Brachydios",
+        "JPName": "猛り爆ぜるブラキディオス",
+        "code": "MONLRGID73",
+        "spawn": ""
+    },
+    {
+        "Name": "ミラボレアスFatalis",
+        "ENName": "Fatalis",
+        "JPName": "ミラボレアス",
+        "code": "MONLRGID74",
+        "spawn": ""
+    },
+    {
+        "Name": "ミラボレアス【紅龍】Crimson Fatalis",
+        "ENName": "Crimson Fatalis",
+        "JPName": "ミラボレアス【紅龍】",
+        "code": "MONLRGID75"
+    },
+    {
+        "Name": "ミラボレアス【祖龍】White Fatalis",
+        "ENName": "White Fatalis",
+        "JPName": "ミラボレアス【祖龍】",
+        "code": "MONLRGID76"
+    },
+    {
+        "Name": "紅兜アオアシラRedhelm Arzuros",
+        "ENName": "Redhelm Arzuros",
+        "JPName": "紅兜アオアシラ",
+        "code": "MONLRGID77",
+        "spawn": "2 > 2,3,5,6,7,9 > 7"
+    },
+    {
+        "Name": "大雪主ウルクススSnowbaron Lagombi",
+        "ENName": "Snowbaron Lagombi",
+        "JPName": "大雪主ウルクスス",
+        "code": "MONLRGID78",
+        "spawn": "6,8 > 6,7,8 > 7"
+    },
+    {
+        "Name": "矛砕ダイミョウザザミStonefist Hermitaur",
+        "ENName": "Stonefist Hermitaur",
+        "JPName": "矛砕ダイミョウザザミ",
+        "code": "MONLRGID79",
+        "spawn": "5 > 2,5,6,7,10 > 6"
+    },
+    {
+        "Name": "鎧裂ショウグンギザミShredclaw Ceanataur",
+        "ENName": "Shredclaw Ceanataur",
+        "JPName": "鎧裂ショウグンギザミ",
+        "code": "MONLRGID80",
+        "spawn": ""
+    },
+    {
+        "Name": "紫毒姫リオレイアDreadqueen Rathian",
+        "ENName": "Dreadqueen Rathian",
+        "JPName": "紫毒姫リオレイア",
+        "code": "MONLRGID81",
+        "spawn": "8 > 1,2,4,5,6,8 > 4"
+    },
+    {
+        "Name": "黒炎王リオレウスDreadking Rathalos",
+        "ENName": "Dreadking Rathalos",
+        "JPName": "黒炎王リオレウス",
+        "code": "MONLRGID82",
+        "spawn": ""
+    },
+    {
+        "Name": "岩穿テツカブラDrilltusk Tetsucabra",
+        "ENName": "Drilltusk Tetsucabra",
+        "JPName": "岩穿テツカブラ",
+        "code": "MONLRGID83",
+        "spawn": "3,7 > 2,3,5,6,7 > 6"
+    },
+    {
+        "Name": "白疾風ナルガクルガSilverwind Nargacuga",
+        "ENName": "Silverwind Nargacuga",
+        "JPName": "白疾風ナルガクルガ",
+        "code": "MONLRGID84",
+        "spawn": "6 > 2,5,6,7,8,9 > 9"
+    },
+    {
+        "Name": "宝纏ウラガンキンCrystalbeard Uragaan",
+        "ENName": "Crystalbeard Uragaan",
+        "JPName": "宝纏ウラガンキン",
+        "code": "MONLRGID85",
+        "spawn": "6 > 3,4,5,6,7 > 6"
+    },
+    {
+        "Name": "隻眼イャンガルルガDeadeye Yian Garuga",
+        "ENName": "Deadeye Yian Garuga",
+        "JPName": "隻眼イャンガルルガ",
+        "code": "MONLRGID86",
+        "spawn": "10 > 2,3,4,5,9,10 > 5"
+    },
+    {
+        "Name": "青電主ライゼクスAzurebolt Astalos",
+        "ENName": "Azurebolt Astalos",
+        "JPName": "青電主ライゼクス",
+        "code": "MONLRGID87",
+        "spawn": ""
+    },
+    {
+        "Name": "金雷公ジンオウガThunderlord Zinogre",
+        "ENName": "Thunderlord Zinogre",
+        "JPName": "金雷公ジンオウガ",
+        "code": "MONLRGID88",
+        "spawn": "5,6 > 2,4,5,6,7,8,9 > 9"
+    },
+    {
+        "Name": "荒鉤爪ティガレックスGrimclaw Tigrex",
+        "ENName": "Grimclaw Tigrex",
+        "JPName": "荒鉤爪ティガレックス",
+        "code": "MONLRGID89",
+        "spawn": "3,8 > 1,3,6,7,8 > 3"
+    },
+    {
+        "Name": "銀嶺ガムートFrostpeak Gammoth",
+        "ENName": "Frostpeak Gammoth",
+        "JPName": "銀嶺ガムート",
+        "code": "MONLRGID90",
+        "spawn": ""
+    },
+    {
+        "Name": "燼滅刃ディノバルドHellblade Glavenus",
+        "ENName": "Hellblade Glavenus",
+        "JPName": "燼滅刃ディノバルド",
+        "code": "MONLRGID91",
+        "spawn": "2 > 2,3,4,6,7,9,10,11 > 11"
+    },
+    {
+        "Name": "朧隠ホロロホルルHazewing Malfestio",
+        "ENName": "Hazewing Malfestio",
+        "JPName": "朧隠ホロロホルル",
+        "code": "MONLRGID92",
+        "spawn": "4,9 > 2,3,4,5,7,8,9 > 4"
+    },
+    {
+        "Name": "天眼タマミツネDivinesight Mizutsune",
+        "ENName": "Divinesight Mizutsune",
+        "JPName": "天眼タマミツネ",
+        "code": "MONLRGID93",
+        "spawn": ""
+    },
+    {
+        "Name": "鏖魔ディアブロスBloodlust Diablos",
+        "ENName": "Bloodlust Diablos",
+        "JPName": "鏖魔ディアブロス",
+        "code": "MONLRGID94",
+        "spawn": ""
+    }
+]
