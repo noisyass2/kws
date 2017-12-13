@@ -18,6 +18,9 @@ function loadfiltered(){
     if(cat != ""){
         keyData = keyData.filter((q) => q.category.trim() == cat);
     }
+    if(rank != ""){
+        keyData = keyData.filter((q) => q.rank == rank + "");
+    }
     if(search != ""){
         keyData = keyData.filter((q) => JSON.stringify(q).toLowerCase().includes(search.toLowerCase()));
     }
@@ -117,5 +120,11 @@ $("#btnCatP").click(function (e) {
 $("#btnSearch").click(function (e) {
     e.preventDefault();
     search=$("#txtSearch").val();
+    loadfiltered();
+})
+
+$("#rank").change(function(e){
+    e.preventDefault();
+    rank = $("#rank").val();
     loadfiltered();
 })
