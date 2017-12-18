@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "t",
   "main": "server.js",
+  "scripts": {
+    "skills" : "node scrapper/skills.js",
+    "monsters": "node scrapper/monsters.js"
+  },
   "author": "Scotch",
   "dependencies": {
     "express": "latest",

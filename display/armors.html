@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>QUESTS</title>
+    <script
+    src="https://code.jquery.com/jquery-3.2.1.min.js"
+    integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+    crossorigin="anonymous"></script>
+</head>
+<body>
+    <style>
+        .tbl{
+            overflow: auto;
+            width: 100%;
+            height: 500px;
+        }
+        .tbl>table>tbody>tr>td{
+            border: 1px solid gray;
+            /* padding: 10px; */
+            padding: 10px;
+            font-size: 12px;
+        }
+        button{
+            padding: 10px;
+            margin: 5px;
+        }
+    </style>
+    
+    <select id="rank">
+        <option></option>
+        <option>1</option>
+        <option>2</option>
+        <option>3</option>
+        <option>4</option>
+        <option>5</option>
+        <option>6</option>
+        <option>7</option>
+        <option>8</option>
+        <option>9</option>
+        <option>10</option>
+    </select>
+    <input id="txtSearch" type="text" /><button id="btnSearch">S</button>
+    <table>
+        <tr>
+            <td>
+
+                <div id="tbl" class="tbl">Table</div>
+            </td>
+            <td>
+                <div class="test">
+                <table>
+                    <tr>
+                        <td>
+                            <div id = "tbl2" class="tbl"> Armors </div>
+                        </td>
+                        <td>
+                            <div id="skills" class="tbl">skills</div>
+                        </td>
+                        <td><div id="parts" class="tbl">parts</div></td>
+                    </tr>
+                </table>    
+                </div>
+            </td>
+        </tr>
+    </table>
+    <script type="text/javascript" src="armors.1.js"></script>    
+    <script src="armors.js" ></script>
+</body>
+</html>
