@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "skills" : "node scrapper/skills.js",
-    "monsters": "node scrapper/monsters.js"
+    "monsters": "node scrapper/monster.js"
   },
   "author": "Scotch",
   "dependencies": {

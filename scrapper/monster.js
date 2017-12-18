@@ -64,7 +64,7 @@ function getItemsByRank(rank,$){
                 var item = { 
                     rank: rank,
                     cat : cat,
-                    item : tds.first().text().trim(),
+                    item : utils.getNames($,$("rt",tds)).enName,
                     val : tds.last().text().trim()
                 }
                 items.push(item);

@@ -153,14 +153,30 @@ function loadSelArmors(dta){
             }
         });
         
-    })
 
-    console.log(skls);
+    });
+    // get monsters
+    var mons = [];
+    console.log();
+    parts.forEach(function(part) {
+        console.log(part.name);
+        var pMons = monstersData.filter(qqq => JSON.stringify(qqq).includes(part.name));
+        console.log(pMons);
+        mons = mons.concat(pMons);
+    });
+    console.log(mons);
+    mons = Array.from(new Set(mons));
+
+    // console.log(skls);
     var idivs = skls.map(s => { return s.skill + " " + s.val }).join('<br>');
     $("#skills").html(idivs);
 
-    var idivs2 = parts.map(s => { return s.name + " " + s.qty }).join('<br>');
+    var idivs2 = parts.map(s => { return s.name + "x" + s.qty }).join('<br>');
     $("#parts").html(idivs2);
+
+    var idivs3 = mons.map(s => { return s.enName }).join('<br>');
+    $("#mons").html(idivs3);
+    console.log(idivs3);
 }
 
 //  
